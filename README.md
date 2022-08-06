@@ -13,12 +13,20 @@ Neste caderno, vamos reanalisar os dados que fizeram Semmelweis descobrir a impo
 ```
 # Importando módulos
 import pandas as pd
+
 # Ler o dataset yearly_deaths_by_clinic
 yearly = pd.read_csv("/yearly_deaths_by_clinic.csv")
+
 # Printe o Dataset
 print(yearly)
 ```
+![image](https://user-images.githubusercontent.com/84130785/183248139-04185312-cf55-4208-aac3-41c00818e9e8.png)
 
+##PARTE 2 - O alarmante número de mortes.
+
+A tabela acima mostra o número de mulheres que deram à luz nas duas clínicas do Hospital Geral de Viena nos anos de 1841 a 1846. Você notará que dar à luz era muito perigoso; um número alarmante de mulheres morreu como resultado do parto, a maioria delas de febre puerperal.
+
+Veremos isso mais claramente se observarmos a proporção de mortes em relação ao número de mulheres que dão à luz. Vamos ampliar a proporção de mortes na Clínica 1.
 
 
 
