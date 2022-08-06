@@ -9,3 +9,16 @@ Descrição do Projeto: Em 1847, o médico húngaro Ignaz Semmelweis fez uma des
 Esse é o Dr. Ignaz Semmelweis húngaro nascido em 1818 e ativo no Hospital Geral de Viena. Se o Dr. Semmelweis parece preocupado, provavelmente é porque está pensando em febre puerperal: uma doença mortal que afeta mulheres que acabaram de dar à luz. Ele está pensando nisso porque, no início da década de 1840, no Hospital Geral de Viena, cerca de 10% das mulheres que dão à luz morriam por causa disso. Ele está pensando nisso porque conhece a causa da febre puerperal: são as mãos contaminadas dos médicos que fazem o parto. E eles não vão ouvi-lo e lavar as mãos!
 
 Neste caderno, vamos reanalisar os dados que fizeram Semmelweis descobrir a importância de lavar as mãos. Vamos começar analisando os dados que fizeram Semmelweis perceber que algo estava errado com os procedimentos do Hospital Geral de Viena.
+
+```
+# Importando módulos
+import pandas as pd
+# Ler o dataset yearly_deaths_by_clinic
+yearly = pd.read_csv("/yearly_deaths_by_clinic.csv")
+# Printe o Dataset
+print(yearly)
+```
+
+
+
+
