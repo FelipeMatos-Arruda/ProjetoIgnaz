@@ -2,7 +2,7 @@
 
 Descrição do Projeto: Em 1847, o médico húngaro Ignaz Semmelweis fez uma descoberta revolucionária: ele descobre a lavagem das mãos. As mãos contaminadas foram uma das principais causas da febre puerperal e, ao impor a lavagem das mãos em seu hospital, ele salvou centenas de vidas.
 
-##Parte 1 - Conhecendo o Dr. Ignaz Semmelweis
+## Parte 1 - Conhecendo o Dr. Ignaz Semmelweis
 
 ![image](https://user-images.githubusercontent.com/84130785/183248102-cad5ffd4-e58f-49ad-8c9d-68efafa8a7e3.png)
 
@@ -22,7 +22,7 @@ print(yearly)
 ```
 ![image](https://user-images.githubusercontent.com/84130785/183248139-04185312-cf55-4208-aac3-41c00818e9e8.png)
 
-##PARTE 2 - O alarmante número de mortes.
+## PARTE 2 - O alarmante número de mortes.
 
 A tabela acima mostra o número de mulheres que deram à luz nas duas clínicas do Hospital Geral de Viena nos anos de 1841 a 1846. Você notará que dar à luz era muito perigoso; um número alarmante de mulheres morreu como resultado do parto, a maioria delas de febre puerperal.
 
